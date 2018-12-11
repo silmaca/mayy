@@ -1,0 +1,8 @@
+#EXTM3U
+
+#EXTINF:1 tvg-id="FILMES" tvg-name="FILMES" tvg-logo="", group-title="FILMES LANÇAMENTOS",  
+#EXTSIZE: Big
+
+#EXTINF:1 tvg-id="FILMES" tvg-name="FILMES" tvg-logo="" group-title="FILMES ACAO","JACKIE CHAN"
+https://youtu.be/89Kqm3Z8F7A
+
